@@ -118,6 +118,12 @@ h1 {
 
 .source-list li + li { margin-top: 6px; }
 
+.source-list .choices {
+  display: block;
+  margin-top: 4px;
+  color: #4f4f4f;
+}
+
 .options {
   display: grid;
   gap: 13px;
